@@ -1,2 +1,2 @@
-# repo
-help me if you can
+this is tkinter practise to learn myself 
+please help if you can
