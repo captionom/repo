@@ -1,2 +1,1 @@
-this is tkinter practise to learn myself 
-please help if you can
+you need the file "rank" to use this bot
